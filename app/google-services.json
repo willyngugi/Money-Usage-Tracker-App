@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "902211790042",
+    "project_id": "spend-tracker-37319",
+    "storage_bucket": "spend-tracker-37319.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902211790042:android:9e7f35f3e8f7140d2131e3",
+        "android_client_info": {
+          "package_name": "com.willteksoftwares.dailyspendtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902211790042-mtja6o8bm12g8lrkelbncn8l2fupmsvf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.willteksoftwares.dailyspendtracker",
+            "certificate_hash": "bf83ab03e4ccaa4bd8ccbf8b91e17e1301931044"
+          }
+        },
+        {
+          "client_id": "902211790042-n9ugavdeobmv6khdckc3kuml5vl4m9fa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu6gwUBRD5rswr4b-vJfPpCthc_gY8BxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902211790042-n9ugavdeobmv6khdckc3kuml5vl4m9fa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
